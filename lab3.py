@@ -8,3 +8,7 @@ def write_a_text_file():
     file.close()
 
 write_a_text_file()
+
+def helloWorld():
+	print('Hello World')
+helloWorld()
